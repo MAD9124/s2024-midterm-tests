@@ -20,6 +20,6 @@ npm run test
 ```
 
 ### NOTES
-These tests are not standard unit / integration tests. They have been made for your convenience only (and mine for marking).
-
-We will be going over the best practices for testing later in the semester
+- These tests are not standard unit / integration tests. They have been made for your convenience only (and mine for marking).
+- We will be going over the best practices for testing later in the semester
+- I will do additional / similar testing against your hosted server at the render url provided, as well as on a cloned local version.
